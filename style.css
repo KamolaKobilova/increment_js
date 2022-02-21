@@ -37,6 +37,9 @@
     height: 310px;
     border-radius: 20px;
 }
+h1:hover {
+   font-size: 50px;
+}
  h3 {
    margin: 5px 10px 100px 120px;
 }
@@ -49,6 +52,13 @@
  color: white;
  border: none;
  cursor: pointer;
+ 
+}
+.bt:hover {
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 red, 0 -1px red;
+  transition: width 4s, height 5s;
+ 
+
 }
 .btn {
   width: 100px;
@@ -59,6 +69,10 @@
  color: white;
  border: none;
  cursor: pointer;
+}
+.btn:hover {
+  transition: width 5s, height 4s;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .button h1 {
