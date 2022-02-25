@@ -86,7 +86,7 @@ margin-left: 160px;
 }
 /* 
 ////////////////////////////// */
-/* @media (max-width:1281px)  {
+@media (max-width:1281px)  {
   .container {
     width: 800px;
     background-color: green;
@@ -187,8 +187,8 @@ margin-left: 160px;
       margin-left: 100px;
 
     }
-} */
-/* @media screen and (max-width: 700px) {
+} 
+ @media screen and (max-width: 700px) { 
   .container {
     width: 300px;
     display: flex;
@@ -201,4 +201,4 @@ margin-left: 160px;
     margin-top: -10px;
     background-color: cadetblue;
   }
-} */
+} 
